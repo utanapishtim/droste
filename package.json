@@ -1,0 +1,11 @@
+{
+  "name": "droste",
+  "version": "0.1.0",
+  "description": "pluggable, extensible schedulers for cross-platform multitenant, multiprocess js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah Cawley",
+  "license": "GPL"
+}
